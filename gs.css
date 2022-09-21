@@ -10,7 +10,7 @@
 }
 .direction {
     font-size: 16px;
-    background-color: bisque;
+    background-color: lightblue;
 }
 .direction:hover {
     background-color: crimson;
@@ -28,6 +28,10 @@
     color: black;
 }
 .GRET {
+    font-size: 14px;
+    color: black;
+}
+.CHORUS {
     font-size: 14px;
     color: black;
 }
