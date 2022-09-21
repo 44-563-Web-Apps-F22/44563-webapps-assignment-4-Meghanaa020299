@@ -62,3 +62,17 @@ tr:nth-child(even)
 th:nth-child(odd) {
     background-color: #8F9AA5;
 }
+.BERTHA:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 244);
+}
+
+.ELSA:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 244);
+}
+
+.OLGA:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 244);
+}
+.GRET:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 244);
+}
