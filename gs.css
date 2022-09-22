@@ -76,3 +76,24 @@ th:nth-child(odd) {
 .GRET:hover {
     text-shadow: 1px 4px 2px rgb(248, 6, 244);
 }
+i{
+    color:chartreuse
+}
+ul.navbar-horizontal{
+    margin: 35;
+    list-style-type: none;
+}
+ul.navbar-horizontal li{
+    float: left;
+    background-color: blue;
+}
+ul.navbar-horizontal a:hover{
+    background-color: red;
+
+}
+ul.navbar-horizontal a{
+    display: block;
+    padding: 16px;
+    color: aliceblue;
+    
+}
